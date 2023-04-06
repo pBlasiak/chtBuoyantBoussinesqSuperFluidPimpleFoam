@@ -1,0 +1,4 @@
+buoyantBoussinesqSuperFluidNewPimpleFoam.C
+HeIIwallVelocity/HeIIwallVelocityUFvPatchVectorField.C
+
+EXE = $(FOAM_USER_APPBIN)/chtBuoyantBoussinesqSuperFluidNewPimpleFoam
